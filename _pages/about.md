@@ -22,21 +22,17 @@ User Modeling, News Recommendation, Text Mining
 
 Education
 ======
-* Ph.D. in Electronic Engineering, Tsinghua University, 2020-2025 (expected)
-* B.E. in Electronic Engineering, Tsinghua University, 2016-2020
+* Ph.D. in Electronic Engineering, Tsinghua University, 08/2020 - 06/2025 (expected)
+* B.E. in Electronic Engineering, Tsinghua University, 08/2016 - 06/2020
 
 Selected Publications
 ======
 * PP-Rec: News Recommendation with Personalized User Interest and Time-aware News Popularity \[[Paper](https://arxiv.org/pdf/2106.01300.pdf)\] \[[Code](https://github.com/taoqi98/PP-Rec)\]
-
 **Tao Qi**, Fangzhao Wu, Chuhan Wu, Yongfeng Huang.  
-
 *Annual Meeting of the Association for Computational Linguistics (**ACL**), 2021*
 
 * HieRec: Hierarchical User Interest Modeling for Personalized News Recommendation \[[Paper](https://arxiv.org/pdf/2106.04408.pdf)\] \[[Code](https://github.com/taoqi98/HieRec)\]
-
 **Tao Qi**, Fangzhao Wu, Chuhan Wu, Peiru Yang, Yang Yu, Xing Xie, Yongfeng Huang.
-
 *Annual Meeting of the Association for Computational Linguistics (**ACL**), 2021*
 
 * Personalized News Recommendation with Knowledge-aware Interactive Matching \[[Paper](https://arxiv.org/pdf/2104.10083.pdf)\] \[[Code](https://github.com/taoqi98/KIM)\]
