@@ -17,9 +17,7 @@ Currently, I am working on topic-based summarization with minimal supervision, a
 
 Research Interests
 ======
-* User Modeling
-* News Recommendation
-* Text Mining
+User Modeling, News Recommendation, Text Mining
 
 
 Education
@@ -53,4 +51,4 @@ Honor & Award
 
 Experiences
 ======
-* Research Intern at Microsoft Research Asia, Social Computing (SC) group, 05/2019 - 06/202
+* Research intern at Microsoft Research Asia, Social Computing (SC) group, 05/2019 - 06/202
