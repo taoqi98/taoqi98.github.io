@@ -27,21 +27,14 @@ Education
 
 Selected Publications
 ======
-* PP-Rec: News Recommendation with Personalized User Interest and Time-aware News Popularity \[[Paper](https://arxiv.org/pdf/2106.01300.pdf)\] \[[Code](https://github.com/taoqi98/PP-Rec)\]
-**Tao Qi**, Fangzhao Wu, Chuhan Wu, Yongfeng Huang.  
-*Annual Meeting of the Association for Computational Linguistics (**ACL**), 2021*
+* **Tao Qi**, Fangzhao Wu, Chuhan Wu, Yongfeng Huang. PP-Rec: News Recommendation with Personalized User Interest and Time-aware News Popularity. **ACL** 2021. \[[Paper](https://arxiv.org/pdf/2106.01300.pdf)\] \[[Code](https://github.com/taoqi98/PP-Rec)\]
+  
 
-* HieRec: Hierarchical User Interest Modeling for Personalized News Recommendation \[[Paper](https://arxiv.org/pdf/2106.04408.pdf)\] \[[Code](https://github.com/taoqi98/HieRec)\]
-**Tao Qi**, Fangzhao Wu, Chuhan Wu, Peiru Yang, Yang Yu, Xing Xie, Yongfeng Huang.
-*Annual Meeting of the Association for Computational Linguistics (**ACL**), 2021*
+* **Tao Qi**, Fangzhao Wu, Chuhan Wu, Peiru Yang, Yang Yu, Xing Xie, Yongfeng Huang. HieRec: Hierarchical User Interest Modeling for Personalized News Recommendation. **ACL** 2021. \[[Paper](https://arxiv.org/pdf/2106.04408.pdf)\] \[[Code](https://github.com/taoqi98/HieRec)\]
 
-* Personalized News Recommendation with Knowledge-aware Interactive Matching \[[Paper](https://arxiv.org/pdf/2104.10083.pdf)\] \[[Code](https://github.com/taoqi98/KIM)\]
-**Tao Qi**, Fangzhao Wu, Chuhan Wu, Yongfeng Huang.  
-*International ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR**), 2021*
+* **Tao Qi**, Fangzhao Wu, Chuhan Wu, Yongfeng Huang. Personalized News Recommendation with Knowledge-aware Interactive Matching. **ACL** 2021. \[[Paper](https://arxiv.org/pdf/2104.10083.pdf)\] \[[Code](https://github.com/taoqi98/KIM)\] 
 
-* Privacy-Preserving News Recommendation Model Learning \[[Paper](https://www.aclweb.org/anthology/2020.findings-emnlp.128.pdf)\] \[[Code](https://github.com/taoqi98/FedNewsRec)\]
-**Tao Qi**, Fangzhao Wu, Chuhan Wu, Yongfeng Huang, Xing Xie.  
-*International Conference on Empirical Methods in Natural Language Processing: Findings (**EMNLP:Findings**), 2020*
+* **Tao Qi**, Fangzhao Wu, Chuhan Wu, Yongfeng Huang, Xing Xie. Privacy-Preserving News Recommendation Model Learning. **EMNLP:Findings** 2020. \[[Paper](https://www.aclweb.org/anthology/2020.findings-emnlp.128.pdf)\] \[[Code](https://github.com/taoqi98/FedNewsRec)\]
 
 For a full publication list, please visit my \[[Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=iRr7c9wAAAAJ&view_op=list_works&sortby=pubdate)\]
 
