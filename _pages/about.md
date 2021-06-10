@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PH.D. student in the Department of Electronic Engineering at Tsinghua University, advised by Prof. [Yongfeng Huang](http://thungnlab.cn/).
+I am a Ph.D. student in the Department of Electronic Engineering at Tsinghua University, advised by Prof. [Yongfeng Huang](http://thungnlab.cn/).
 
 <!-- I am passionate about designing text mining algorithm for real-world application, including recommendation, medical NLP and NLP for social good.
 As such, I work at the intersection of data mining and natural language processing. -->
@@ -52,3 +52,12 @@ Honor & Award
 Experiences
 ======
 * Research intern at Microsoft Research Asia, Social Computing (SC) group, 05/2019 - 06/202
+
+Academic Services
+======
+* PC Member, CAAI International Conference on Artificial Intelligence (CICAI), 2021
+* PC Member, 1st International Workshop on News Recommendation and Intelligence, collocated with WWW, 2021
+* Reviewer, Information Sciences
+* Subreviewer, The Web Conference, 2021
+* PC Member, The 35th AAAI Conference on Artificial Intelligence (AAAI), 2021
+ 
