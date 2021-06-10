@@ -27,24 +27,6 @@ Education
 * Ph.D. in Electronic Engineering, Tsinghua University, 2020-2025 (expected)
 * B.E. in Electronic Engineering, Tsinghua University, 2016-2020
 
-<!-- Experience
-====== -->
-<!-- * **Research Intern @ University of Illinois at Urbana-Champaign**, Jul 2020 - Present  
-Topic: Topic-based Corpus Summarization with Minimal Supervision  
-Advisor: Prof. [Jiawei Han](http://hanj.cs.illinois.edu/)  
-
-* **Research Intern @ Arizona State University**, Feb 2020 - Oct 2020  
-Topic: Cyberbully Detection  
-Advisor: Prof. [Huan Liu](https://www.public.asu.edu/~huanliu/)  
-
-* **Research Assistant @ Tsinghua University**, Oct 2018 - May 2020  
-Topic: Text-based Recommendation and Privacy-preserving Named Entity Recognition    
-Advisor: Prof. [Yongfeng Huang](http://thungnlab.cn/)  
-
-* **Research Intern @ University of Pennsylvania**, Jul 2019 - Dec 2019  
-Topic: Medical Non-adherence Discovery  
-Advisor: Prof. [Graciela Gonzalez Hernandez](https://www.dbei.med.upenn.edu/bio/graciela-gonzalez-hernandez-ms-phd)   -->
-
 Selected Publications
 ======
 * PP-Rec: News Recommendation with Personalized User Interest and Time-aware News Popularity \[[PDF](https://arxiv.org/pdf/2106.01300.pdf)\] \[[Code](https://github.com/taoqi98/PP-Rec)\]
@@ -61,13 +43,14 @@ Selected Publications
 
 * Privacy-Preserving News Recommendation Model Learning \[[PDF](https://www.aclweb.org/anthology/2020.findings-emnlp.128.pdf)\] \[[Code](https://github.com/taoqi98/FedNewsRec)\]
 **Tao Qi**, Fangzhao Wu, Chuhan Wu, Yongfeng Huang, Xing Xie.  
-*Conference on Empirical Methods in Natural Language Processing: Findings (**EMNLP:Findings**), 2020*
+*International Conference on Empirical Methods in Natural Language Processing: Findings (**EMNLP:Findings**), 2020*
 
 For a full publication list, please visit my \[[Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=iRr7c9wAAAAJ&view_op=list_works&sortby=pubdate)\]
 
-   <!-- For a full publication list, please visit [Publications](https://gesy17.github.io/publications/) -->
+Honor & Award
+======
+* "Star of Tomorrow" Award at Microsoft Research Asia, 06/2020
 
-<!-- Misc.
-====== -->
-<!-- * I enjoy spending my spare time swimming and reading
-* My favourite singer & artist group is Keyakizaka46 (Sakurazaka46)   -->
+Experiences
+======
+* Research Intern at Microsoft Research Asia, Social Computing (SC) group, 05/2019 - 06/202
