@@ -47,7 +47,11 @@ For a full publication list, please visit my \[[Google Scholar](https://scholar.
 
 Honor & Award
 ======
-* "Star of Tomorrow" Award at Microsoft Research Asia, 06/2020
+* "Star of Tomorrow" Award at Microsoft Research Asia, 2020
+* Excellent Graduation Design at Tsinghua University, 2020
+* Academic Excellence Scholarship at Tsinghua University, 2019
+* Innovation Excellence Scholarship at Tsinghua University, 2019
+* Academic Excellence Scholarship at Tsinghua University, 2018
 
 Experiences
 ======
