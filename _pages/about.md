@@ -27,19 +27,23 @@ Education
 
 Selected Publications
 ======
-* PP-Rec: News Recommendation with Personalized User Interest and Time-aware News Popularity \[[PDF](https://arxiv.org/pdf/2106.01300.pdf)\] \[[Code](https://github.com/taoqi98/PP-Rec)\]
+* PP-Rec: News Recommendation with Personalized User Interest and Time-aware News Popularity \[[Paper](https://arxiv.org/pdf/2106.01300.pdf)\] \[[Code](https://github.com/taoqi98/PP-Rec)\]
+
 **Tao Qi**, Fangzhao Wu, Chuhan Wu, Yongfeng Huang.  
+
 *Annual Meeting of the Association for Computational Linguistics (**ACL**), 2021*
 
-* HieRec: Hierarchical User Interest Modeling for Personalized News Recommendation \[[PDF](https://arxiv.org/pdf/2106.04408.pdf)\] \[[Code](https://github.com/taoqi98/HieRec)\]
+* HieRec: Hierarchical User Interest Modeling for Personalized News Recommendation \[[Paper](https://arxiv.org/pdf/2106.04408.pdf)\] \[[Code](https://github.com/taoqi98/HieRec)\]
+
 **Tao Qi**, Fangzhao Wu, Chuhan Wu, Peiru Yang, Yang Yu, Xing Xie, Yongfeng Huang.
+
 *Annual Meeting of the Association for Computational Linguistics (**ACL**), 2021*
 
-* Personalized News Recommendation with Knowledge-aware Interactive Matching \[[PDF](https://arxiv.org/pdf/2104.10083.pdf)\] \[[Code](https://github.com/taoqi98/KIM)\]
+* Personalized News Recommendation with Knowledge-aware Interactive Matching \[[Paper](https://arxiv.org/pdf/2104.10083.pdf)\] \[[Code](https://github.com/taoqi98/KIM)\]
 **Tao Qi**, Fangzhao Wu, Chuhan Wu, Yongfeng Huang.  
 *International ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR**), 2021*
 
-* Privacy-Preserving News Recommendation Model Learning \[[PDF](https://www.aclweb.org/anthology/2020.findings-emnlp.128.pdf)\] \[[Code](https://github.com/taoqi98/FedNewsRec)\]
+* Privacy-Preserving News Recommendation Model Learning \[[Paper](https://www.aclweb.org/anthology/2020.findings-emnlp.128.pdf)\] \[[Code](https://github.com/taoqi98/FedNewsRec)\]
 **Tao Qi**, Fangzhao Wu, Chuhan Wu, Yongfeng Huang, Xing Xie.  
 *International Conference on Empirical Methods in Natural Language Processing: Findings (**EMNLP:Findings**), 2020*
 
@@ -47,15 +51,17 @@ For a full publication list, please visit my \[[Google Scholar](https://scholar.
 
 Honor & Award
 ======
-* "Star of Tomorrow" Award at Microsoft Research Asia, 2020
-* Excellent Graduation Design at Tsinghua University, 2020
-* Academic Excellence Scholarship at Tsinghua University, 2019
-* Innovation Excellence Scholarship at Tsinghua University, 2019
-* Academic Excellence Scholarship at Tsinghua University, 2018
+* "Star of Tomorrow" Award, Microsoft Research Asia, 2020
+* Excellent Graduation Design, Tsinghua University, 2020
+* Academic Excellence Scholarship, Tsinghua University, 2019
+* Innovation Excellence Scholarship, Tsinghua University, 2019
+* Academic Excellence Scholarship, Tsinghua University, 2018
+* Soical Work Excellence Scholarship, Tsinghua University, 2018
+* Academic Excellence Scholarship, Tsinghua University, 2017
 
 Experiences
 ======
-* Research intern at Microsoft Research Asia, Social Computing (SC) group, 05/2019 - 06/202
+* Research intern, Microsoft Research Asia, Social Computing (SC) group, 05/2019 - 06/202
 
 Academic Services
 ======
