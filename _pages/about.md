@@ -47,19 +47,19 @@ Advisor: Prof. [Graciela Gonzalez Hernandez](https://www.dbei.med.upenn.edu/bio/
 
 Selected Publications
 ======
-* PP-Rec: News Recommendation with Personalized User Interest and Time-aware News Popularity \[[PDF](https://arxiv.org/pdf/2106.01300.pdf)\]   
+* PP-Rec: News Recommendation with Personalized User Interest and Time-aware News Popularity \[[PDF](https://arxiv.org/pdf/2106.01300.pdf)\] \[[Code](https://github.com/taoqi98/PP-Rec)\]
 **Tao Qi**, Fangzhao Wu, Chuhan Wu, Yongfeng Huang.  
 *Annual Meeting of the Association for Computational Linguistics (**ACL**), 2021*
 
-* HieRec: Hierarchical User Interest Modeling for Personalized News Recommendation \[[PDF](https://arxiv.org/pdf/2106.04408.pdf)\]  
+* HieRec: Hierarchical User Interest Modeling for Personalized News Recommendation \[[PDF](https://arxiv.org/pdf/2106.04408.pdf)\] \[[Code](https://github.com/taoqi98/HieRec)\]
 **Tao Qi**, Fangzhao Wu, Chuhan Wu, Peiru Yang, Yang Yu, Xing Xie, Yongfeng Huang.
 *Annual Meeting of the Association for Computational Linguistics (**ACL**), 2021*
 
-* Personalized News Recommendation with Knowledge-aware Interactive Matching \[[PDF](https://arxiv.org/pdf/2104.10083.pdf)\]  
-**Suyu Ge**, Tao Qi, Chuhan Wu, Fangzhao Wu, Xing Xie, Yongfeng Huang.  
+* Personalized News Recommendation with Knowledge-aware Interactive Matching \[[PDF](https://arxiv.org/pdf/2104.10083.pdf)\] \[[Code](https://github.com/taoqi98/KIM)\]
+**Tao Qi**, Fangzhao Wu, Chuhan Wu, Yongfeng Huang.  
 *International ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR**), 2021*
 
-* Privacy-Preserving News Recommendation Model Learning \[[PDF](https://www.aclweb.org/anthology/2020.findings-emnlp.128.pdf)\]  
+* Privacy-Preserving News Recommendation Model Learning \[[PDF](https://www.aclweb.org/anthology/2020.findings-emnlp.128.pdf)\] \[[Code](https://github.com/taoqi98/FedNewsRec)\]
 **Tao Qi**, Fangzhao Wu, Chuhan Wu, Yongfeng Huang, Xing Xie.  
 *Conference on Empirical Methods in Natural Language Processing: Findings (**EMNLP:Findings**), 2020*
 
