@@ -64,5 +64,5 @@ Academic Services
  
 Conference Presentations
 ======
-* **ACL Pre-conference**, AITime, 05/2021
-* **ACL-IJCAI-SIGIR Pre-conference**, CIPS Youth Working Committee, 05/2021
+* ACL Pre-conference, AITime, 05/2021
+* ACL-IJCAI-SIGIR Pre-conference, CIPS Youth Working Committee, 05/2021
