@@ -8,14 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in the Department of Electronic Engineering at Tsinghua University, advised by Prof. [Yongfeng Huang](http://thungnlab.cn/).
+I am a Ph.D. student in the Department of Electronic Engineering at Tsinghua University, advised by Prof. Yongfeng Huang.
 
 <!-- I am passionate about designing text mining algorithm for real-world application, including recommendation, medical NLP and NLP for social good.
 As such, I work at the intersection of data mining and natural language processing. -->
 <!-- 
 Currently, I am working on topic-based summarization with minimal supervision, a novel task for large corpus summarization, advised by Prof. [Jiawei Han](http://hanj.cs.illinois.edu/). -->
 
-Research Interests
+Research Interest
 ======
 User Modeling, News Recommendation, Text Mining
 
@@ -38,6 +38,11 @@ Selected Publications
 
 For a full publication list, please visit my \[[Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=iRr7c9wAAAAJ&view_op=list_works&sortby=pubdate)\]
 
+Experiences
+======
+* Intern, Microsoft Research Asia Social Computing (SC) group, 05/2019 - 06/202
+
+
 Honor & Award
 ======
 * "Star of Tomorrow" Award, Microsoft Research Asia, 2020
@@ -48,9 +53,6 @@ Honor & Award
 * Soical Work Excellence Scholarship, Tsinghua University, 2018
 * Academic Excellence Scholarship, Tsinghua University, 2017
 
-Experiences
-======
-* Research intern, Microsoft Research Asia, Social Computing (SC) group, 05/2019 - 06/202
 
 Academic Services
 ======
@@ -60,3 +62,7 @@ Academic Services
 * Subreviewer, The Web Conference, 2021
 * PC Member, The 35th AAAI Conference on Artificial Intelligence (AAAI), 2021
  
+Conference Presentations
+======
+**ACL Pre-conference**, AITime, 05/2021
+**ACL-IJCAI-SIGIR Pre-conference**, CIPS Youth Working Committee, 05/2021
