@@ -46,7 +46,7 @@ Experiences
 Honor & Award
 ======
 * ``Star of Tomorrow'' Award, Microsoft Research Asia, 2020
-* Excellent Graduation Design, Tsinghua University, 2020
+* Outstanding Undergraduate Thesis Award, Tsinghua University, 2020
 * Academic Excellence Scholarship, Tsinghua University, 2019
 * Innovation Excellence Scholarship, Tsinghua University, 2019
 * Academic Excellence Scholarship, Tsinghua University, 2018
