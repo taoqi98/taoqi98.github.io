@@ -43,7 +43,7 @@ Experiences
 * Intern, Microsoft Research Asia Social Computing (SC) group, 05/2019 - 06/202
 
 
-Honor & Award
+Selected Honor & Award
 ======
 * Star of Tomorrow Award, Microsoft Research Asia, 2020
 * Outstanding Undergraduate Thesis Award, Tsinghua University, 2020
