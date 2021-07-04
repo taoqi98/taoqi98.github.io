@@ -17,7 +17,7 @@ Currently, I am working on topic-based summarization with minimal supervision, a
 
 Research Interest
 ======
-User Modeling, News Recommendation, Text Mining
+User Modeling, News Recommendation, Privacy-Presering Recommender Systems, NLP
 
 
 Education
