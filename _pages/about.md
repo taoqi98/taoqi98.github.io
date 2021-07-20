@@ -10,14 +10,10 @@ redirect_from:
 
 I am a Ph.D. student in the Department of Electronic Engineering at Tsinghua University, advised by Prof. Yongfeng Huang.
 
-<!-- I am passionate about designing text mining algorithm for real-world application, including recommendation, medical NLP and NLP for social good.
-As such, I work at the intersection of data mining and natural language processing. -->
-<!-- 
-Currently, I am working on topic-based summarization with minimal supervision, a novel task for large corpus summarization, advised by Prof. [Jiawei Han](http://hanj.cs.illinois.edu/). -->
 
 Research Interest
 ======
-User Modeling, News Recommendation, Privacy-Presering Recommender Systems, NLP
+User Modeling, News Recommendation, Privacy-Preserving Recommender Systems, NLP
 
 
 Education
@@ -50,19 +46,18 @@ Selected Honor & Award
 * Academic Excellence Scholarship, Tsinghua University, 2019
 * Innovation Excellence Scholarship, Tsinghua University, 2019
 * Academic Excellence Scholarship, Tsinghua University, 2018
-* Soical Work Excellence Scholarship, Tsinghua University, 2018
 * Academic Excellence Scholarship, Tsinghua University, 2017
 
 
 Academic Services
 ======
-* PC Member, CAAI International Conference on Artificial Intelligence (CICAI), 2021
+* PC Member, CAAI International Conference on Artificial Intelligence, 2021
 * PC Member, 1st International Workshop on News Recommendation and Intelligence, collocated with WWW, 2021
 * Reviewer, Information Sciences
 * Subreviewer, The Web Conference, 2021
-* PC Member, The 35th AAAI Conference on Artificial Intelligence (AAAI), 2021
+* PC Member, The 35th AAAI Conference on Artificial Intelligence, 2021
  
-Conference Presentations
+<!-- Conference Presentations
 ======
 * ACL Pre-conference, AITime, 05/2021
-* ACL-IJCAI-SIGIR Pre-conference, CIPS Youth Working Committee, 05/2021
+* ACL-IJCAI-SIGIR Pre-conference, CIPS Youth Working Committee, 05/2021 -->
