@@ -36,7 +36,7 @@ For a full publication list, please visit my \[[Google Scholar](https://scholar.
 
 Research Experiences
 ======
-* Intern, Microsoft Research Asia Social Computing group, 05/2019 - 06/202
+* Intern, Microsoft Research Asia Social Computing group, 05/2019 - 06/2020
 
 
 Selected Honor & Award
