@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in the Department of Electronic Engineering at Tsinghua University, advised by Prof. Yongfeng Huang.
+I am a 2nd year Ph.D. student in the Department of Electronic Engineering at Tsinghua University, advised by Prof. Yongfeng Huang.
 
 
 Research Interest
@@ -23,6 +23,8 @@ Education
 
 Selected Publications
 ======
+* **Tao Qi**, Fangzhao Wu, Chuhan Wu, Yongfeng Huang, Xing Xie. Uni-FedRec: A Unified Privacy-Preserving News Recommendation Framework for Model Training and Online Serving. **EMNLP:Findings** 2021. \[[Paper](https://arxiv.org/pdf/2109.05236.pdf)\]
+
 * **Tao Qi**, Fangzhao Wu, Chuhan Wu, Yongfeng Huang. PP-Rec: News Recommendation with Personalized User Interest and Time-aware News Popularity. **ACL** 2021. \[[Paper](https://arxiv.org/pdf/2106.01300.pdf)\] \[[Slides](/files/PP-Rec.pdf)] \[[Code](https://github.com/taoqi98/PP-Rec)\]
   
 
@@ -41,6 +43,7 @@ Research Experiences
 
 Selected Honor & Award
 ======
+* Academic Excellence Scholarship, EE Department of Tsinghua University, 2021
 * Star of Tomorrow Award, Microsoft Research Asia, 2020
 * Outstanding Undergraduate Thesis Award, Tsinghua University, 2020
 * Academic Excellence Scholarship, Tsinghua University, 2019
@@ -51,6 +54,8 @@ Selected Honor & Award
 
 Academic Services
 ======
+* PC Member, The 31th International Joint  Conference on Artificial Intelligence, 2022
+* PC Member, The 36th AAAI Conference on Artificial Intelligence, 2022
 * PC Member, CAAI International Conference on Artificial Intelligence, 2021
 * PC Member, 1st International Workshop on News Recommendation and Intelligence, collocated with WWW, 2021
 * Reviewer, Information Sciences
