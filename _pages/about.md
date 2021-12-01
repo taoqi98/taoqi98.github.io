@@ -54,13 +54,14 @@ Selected Honor & Award
 
 Academic Services
 ======
-* PC Member, The 31th International Joint  Conference on Artificial Intelligence, 2022
-* PC Member, The 36th AAAI Conference on Artificial Intelligence, 2022
-* PC Member, CAAI International Conference on Artificial Intelligence, 2021
+* Reviewer, ACL Rolling Review
+* PC Member, The 31th International Joint  Conference on Artificial Intelligence (**IJCAI**), 2022
+* PC Member, The 36th AAAI Conference on Artificial Intelligence (**AAAI**), 2022
+* PC Member, CAAI International Conference on Artificial Intelligence (**CAAI**), 2021
 * PC Member, 1st International Workshop on News Recommendation and Intelligence, collocated with WWW, 2021
 * Reviewer, Information Sciences
-* Subreviewer, The Web Conference, 2021
-* PC Member, The 35th AAAI Conference on Artificial Intelligence, 2021
+* Subreviewer, The Web Conference (**WWW**), 2021
+* PC Member, The 35th AAAI Conference on Artificial Intelligence (**AAAI**), 2021
  
 <!-- Conference Presentations
 ======
