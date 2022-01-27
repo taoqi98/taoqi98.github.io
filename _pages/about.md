@@ -54,6 +54,7 @@ Selected Honor & Award
 
 Academic Services
 ======
+* Reviewer, Artificial Intelligence Review
 * Reviewer, ACL Rolling Review
 * PC Member, The 31th International Joint  Conference on Artificial Intelligence (**IJCAI**), 2022
 * PC Member, The 36th AAAI Conference on Artificial Intelligence (**AAAI**), 2022
