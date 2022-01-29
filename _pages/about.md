@@ -54,6 +54,7 @@ Selected Honor & Award
 
 Academic Services
 ======
+* PC Member, The 39th International Conference on Machine Learning (**ICML**), 2022
 * Reviewer, Artificial Intelligence Review
 * Reviewer, ACL Rolling Review
 * PC Member, The 31th International Joint  Conference on Artificial Intelligence (**IJCAI**), 2022
