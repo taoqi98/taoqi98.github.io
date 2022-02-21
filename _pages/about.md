@@ -54,9 +54,10 @@ Selected Honor & Award
 
 Academic Services
 ======
+* PC Member, The 28th ACM SIGKDD International Conference on Knowledge Discovery And Data Mining (**KDD**), 2022
 * PC Member, The 39th International Conference on Machine Learning (**ICML**), 2022
 * Reviewer, Artificial Intelligence Review
-* Reviewer, ACL Rolling Review
+* Reviewer, ACL Rolling Review (**ARR**)
 * PC Member, The 31th International Joint  Conference on Artificial Intelligence (**IJCAI**), 2022
 * PC Member, The 36th AAAI Conference on Artificial Intelligence (**AAAI**), 2022
 * PC Member, CAAI International Conference on Artificial Intelligence (**CAAI**), 2021
