@@ -13,8 +13,7 @@ I am a 2nd year Ph.D. student in the Department of Electronic Engineering at Tsi
 
 Research Interest
 ======
-User Modeling, News Recommendation, Privacy-Preserving Recommender Systems, NLP
-
+Responsible AI, Federated Learning, User Modeling, Recommender System, NLP
 
 Education
 ======
@@ -59,7 +58,10 @@ Selected Honor & Award
 
 Academic Services
 ======
-* PC Member, The Thirty-Sixth Annual Conference on Neural Information Processing Systems (**NeurIPS**), 2022
+* **PC Member**: NeurIPS 2022, KDD 2022, ICML 2022, IJCAI 2022, AAAI 2022, AAAI 2021
+* **Reviewer**: ACL Rolling Review, Artificial Intelligence Review, Information Sciences
+* **Subreviewer**: SIGIR 2022, WWW 2021
+<!-- * PC Member, The Thirty-Sixth Annual Conference on Neural Information Processing Systems (**NeurIPS**), 2022
 * Subreviewer, The 45th International ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR**), 2022
 * PC Member, The 28th ACM SIGKDD International Conference on Knowledge Discovery And Data Mining (**KDD**), 2022
 * PC Member, The 39th International Conference on Machine Learning (**ICML**), 2022
@@ -72,7 +74,7 @@ Academic Services
 * Reviewer, Information Sciences
 * Subreviewer, The Web Conference (**WWW**), 2021
 * PC Member, The 35th AAAI Conference on Artificial Intelligence (**AAAI**), 2021
- 
+  -->
 <!-- Conference Presentations
 ======
 * ACL Pre-conference, AITime, 05/2021
