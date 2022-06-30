@@ -22,11 +22,11 @@ Education
 
 Selected Publications
 ======
-* **Tao Qi**, Fangzhao Wu, Chuhan Wu, Peijie Sun, Le Wu, Xiting Wang, Yongfeng Huang, Xing Xie. ProFairRec: Provider Fairness-aware News Recommendation. **SIGIR** 2022. \[[Paper](https://arxiv.org/pdf/2204.04724.pdf)\] \[[Slides](/files/ProFairRec.pdf)]
+* **Tao Qi**, Fangzhao Wu, Chuhan Wu, Peijie Sun, Le Wu, Xiting Wang, Yongfeng Huang, Xing Xie. ProFairRec: Provider Fairness-aware News Recommendation. **SIGIR** 2022. \[[Paper](https://arxiv.org/pdf/2204.04724.pdf)\] \[[Slides](/files/ProFairRec.pdf)] \[[Code](https://github.com/taoqi98/ProFairRec)\]
 
-* **Tao Qi**, Fangzhao Wu, Chuhan Wu, Yongfeng Huang. News Recommendation with Candidate-aware User Modeling. **SIGIR** (short paper) 2022. \[[Paper](https://arxiv.org/pdf/2204.04726.pdf)\] \[[Slides](/files/CAUM.pdf)]
+* **Tao Qi**, Fangzhao Wu, Chuhan Wu, Yongfeng Huang. News Recommendation with Candidate-aware User Modeling. **SIGIR** (short paper) 2022. \[[Paper](https://arxiv.org/pdf/2204.04726.pdf)\] \[[Slides](/files/CAUM.pdf)] \[[Code](https://github.com/taoqi98/CAUM)\]
 
-* **Tao Qi**, Fangzhao Wu, Chuhan Wu, Yongfeng Huang. FUM: Fine-grained and Fast User Modeling for News Recommendation. **SIGIR** (short paper) 2022. \[[Paper](https://arxiv.org/pdf/2204.04727.pdf)\] \[[Slides](/files/FUM.pdf)]
+* **Tao Qi**, Fangzhao Wu, Chuhan Wu, Yongfeng Huang. FUM: Fine-grained and Fast User Modeling for News Recommendation. **SIGIR** (short paper) 2022. \[[Paper](https://arxiv.org/pdf/2204.04727.pdf)\] \[[Slides](/files/FUM.pdf)] \[[Code](https://github.com/taoqi98/FUM)\]
 
 * **Tao Qi**, Fangzhao Wu, Chuhan Wu, Yongfeng Huang, Xing Xie. Uni-FedRec: A Unified Privacy-Preserving News Recommendation Framework for Model Training and Online Serving. **EMNLP:Findings** 2021. \[[Paper](https://arxiv.org/pdf/2109.05236.pdf)\]  \[[Slides](/files/UniFedRec.pdf)] \[[Code](https://github.com/taoqi98/UniFedRec)\]
 
