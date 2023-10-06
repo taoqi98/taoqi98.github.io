@@ -67,4 +67,4 @@ Selected Honor & Award
 Academic Services
 ======
 * **PC Member**: NeurIPS, ICML, KDD, IJCAI, AAAI
-* **Reviewer**: TPMAI, ACL Rolling Review, Artificial Intelligence Review, Information Sciences
+* **Reviewer**: TPAMI, ACL Rolling Review, Artificial Intelligence Review, Information Sciences
